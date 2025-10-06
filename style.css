@@ -15,7 +15,7 @@
     --main-color: rgba(238, 130, 238, 0.801); 
 }
 body{
-    background-image: url('assets.stockspexels-photo-12562776.webp');
+    background-image: url('assetspexels-photo-12562776.webp');
     background-size: cover;
  
  
@@ -587,7 +587,7 @@ div.main-staff{
 /* about */
 
 section.store{
-    background-image: url('/assets.stocks/hookah-still-life-arrangement_23-2149213276.jpg');
+    background-image: url('assetshookah-still-life-arrangement_23-2149213276.jpg');
     background-size: cover;
     
 }
@@ -1220,6 +1220,7 @@ div.hiring-image img{
  
 
 }
+
 
 
 
